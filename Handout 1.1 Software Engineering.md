@@ -1,13 +1,16 @@
 # Handout 1.1
 
-## Software engineering   Fact!!!
+<p align="center"> <img src="./images/Picture-01.png"></p>
+<p align="center"> <b>รูปที่ 1-1</b> องค์ประกอบของวิศวกรรมซอฟต์แวร์  </p>
 
+## Software engineering   Fact!!!
 * ระบบเศรษฐกิจของประเทศที่พัฒนาแล้ว ล้วนแต่พึ่งพา Software
 * ทุกระบบในโลก ต่างก็มี software controlled เพิ่มมากขึ้น มากขึ้นเรื่อย ๆ
 * ราคาของ software มักจะเป็นตัวกำหนดราคาของระบบคอมพิวเตอร์
 * ราคาของการ maintain มักจะสูงกว่าราคาในการ develop
 * ในระบบที่ใช้งานเป็นระยะเวลายาวนาน ค่าบำรุงรักษาจะสูงกว่าค่าสร้างซอฟต์แวร์
 * Software engineering เน้นการพัฒนาซอฟต์แวร์ที่คุ้มค่า (cost-effective)  
+
 
 ## What is software?
 
