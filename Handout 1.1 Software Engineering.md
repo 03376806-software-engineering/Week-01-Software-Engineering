@@ -30,6 +30,11 @@ Software engineering is an engineering discipline that is concerned with all asp
 
 วิศวกรรมซอฟต์แวร์เป็นสาขาวิศวกรรมที่เกี่ยวข้องกับทุกด้านของการผลิตซอฟต์แวร์
 
+<p align="center"> <img src="https://www.pbsnow.com/wp-content/uploads/2014/11/Project-Management-Tree-Example.jpg"></p>
+<p align="center"> <b>รูปที่ 1-2</b> ความเป็นจริงในแง่มุมต่างๆ ของการพัฒนาซอฟต์แวร์</p>
+
+
+
 ## What are the fundamental software engineering activities?
 
 Software specification, software development, software validation and software evolution.
